@@ -50,7 +50,7 @@ export default {
     httppost() {
       this.$http
         .post({
-          url: "http://app.ouyeel.com/nbapp/api/v1/userRolesSyn",
+          url: "http://app.XXXXXXX.com/nbapp/api/v1/userRolesSyn",
           params: {
             userCode: "178806",
             segNo: "C001001"
