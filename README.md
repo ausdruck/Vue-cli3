@@ -28,7 +28,7 @@ npm run build
     在.env文件中配置本地热重载测试环境地址,在.evn.dev文件中配置本地热重载正式环境地址,在.env.production文件中配置正环境打包地址;
     使用rem,1rem=50px;
     vuecli3环境变量配置
-    [参考](https://cli.vuejs.org/zh/guide/mode-and-env.html#%E6%A8%A1%E5%BC%8F/)
+    -[参考](https://cli.vuejs.org/zh/guide/mode-and-env.html#%E6%A8%A1%E5%BC%8F/)
     ...   
 
 ### 使用的插件和UI库
