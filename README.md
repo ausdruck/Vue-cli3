@@ -27,7 +27,8 @@ npm run build
     在项目中使用了VueRouter和Vuex,使用了VueRouter进行页面的切换,使用Vuex储存一些变量;
     在.env文件中配置本地热重载测试环境地址,在.evn.dev文件中配置本地热重载正式环境地址,在.env.production文件中配置正环境打包地址;
     使用rem,1rem=50px;
-    vuecli3环境变量配置[参考](https://github.com/nswbmw/N-blog/blob/master/book/4.4%20%E5%8A%9F%E8%83%BD%E8%AE%BE%E8%AE%A1.md#441-功能与路由设计)
+    vuecli3环境变量配置
+    [参考](https://cli.vuejs.org/zh/guide/mode-and-env.html#%E6%A8%A1%E5%BC%8F/)
     ...   
 
 ### 使用的插件和UI库
